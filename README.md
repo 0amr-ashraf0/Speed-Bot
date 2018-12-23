@@ -1,4 +1,5 @@
 # Speed Bot 
 - By Amr
 ____________
-- Prefix = "-"
+- Prefix = "r!"
+'Bot Is Arabic'
